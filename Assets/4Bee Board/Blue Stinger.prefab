@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5623923295850315712
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 8e71f81a3734d9549bd66d6b25d81946, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -40.547
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8e71f81a3734d9549bd66d6b25d81946, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8.009
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8e71f81a3734d9549bd66d6b25d81946, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -202.66
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8e71f81a3734d9549bd66d6b25d81946, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071067
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8e71f81a3734d9549bd66d6b25d81946, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8e71f81a3734d9549bd66d6b25d81946, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8e71f81a3734d9549bd66d6b25d81946, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8e71f81a3734d9549bd66d6b25d81946, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8e71f81a3734d9549bd66d6b25d81946, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8e71f81a3734d9549bd66d6b25d81946, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8e71f81a3734d9549bd66d6b25d81946, type: 3}
+      propertyPath: m_Name
+      value: Blue Stinger
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 8e71f81a3734d9549bd66d6b25d81946, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3176427515300328976}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 8e71f81a3734d9549bd66d6b25d81946, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -210821440925589896}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 8e71f81a3734d9549bd66d6b25d81946, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -4010185663603955621}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 8e71f81a3734d9549bd66d6b25d81946, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3714882920302448983}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 8e71f81a3734d9549bd66d6b25d81946, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7943235945296389449}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 8e71f81a3734d9549bd66d6b25d81946, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -6078283969393643842}
+  m_SourcePrefab: {fileID: 100100000, guid: 8e71f81a3734d9549bd66d6b25d81946, type: 3}
+--- !u!1 &4813602125579715217 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 8e71f81a3734d9549bd66d6b25d81946, type: 3}
+  m_PrefabInstance: {fileID: 5623923295850315712}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &3176427515300328976
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4813602125579715217}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.00041999936, y: 0.00041999936, z: 0.00018336892}
+  m_Center: {x: 0.0000000043582986, y: -0.00000001436274, z: 0.000020089685}
+--- !u!114 &-210821440925589896
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4813602125579715217}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbef8d1b18975d4fa0b8b458278b503, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MidniteOilSoftware.DragAndDrop.NewMouseInput
+--- !u!114 &-4010185663603955621
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4813602125579715217}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d53e64d76ae4a89993f404efc9b41d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MidniteOilSoftware.DragAndDrop.Draggable
+  _raycastLayerMask:
+    serializedVersion: 2
+    m_Bits: 256
+  _raycastDistance: 100
+  _dropTargetLayerMask:
+    serializedVersion: 2
+    m_Bits: 512
+--- !u!114 &3714882920302448983
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4813602125579715217}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94fe17a0db2229f45a235133ded53be2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MidniteOilSoftware.DragAndDrop.DragMovement
+  _snapOffset: {x: 0, y: 0.13, z: 0}
+  _strictSnap: 1
+--- !u!114 &7943235945296389449
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4813602125579715217}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250216c4274521e4cac6ecc3fe24db9e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MidniteOilSoftware.DragAndDrop.DragIndicator
+  _dragOffset: {x: 5, y: 5, z: 5}
+--- !u!114 &-6078283969393643842
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4813602125579715217}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 261386674a4a5b94886a3be6cba9421c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MidniteOilSoftware.DragAndDrop.HoverIndicator
+  _hoverScaleMultiplier: {x: 1.1, y: 1.1, z: 1.1}
